@@ -10,7 +10,7 @@ echo "<br><br><br><br>";
 
 
 $fname="Krzesimir";
-$lname="HYŻYK";
+$lname="HYÅ»YK";
 echo "My first name is: <span style=\"font-weight:800\">".$fname."</span><br>My last name is: <span style=\"font-weight:800\">".$lname."</span><br>My full name is: <span style=\"font-weight:800\">".$fname." ".$lname."</span><br><br>My first name has: <span style=\"font-weight:800\">".strlen($fname)."</span> characters<br>My full name has: <span style=\"font-weight:800\">".strlen($fname." ".$lname)."</span> characters";
 
 
